@@ -15,7 +15,9 @@ I'll be measuring and documenting the output, so we shall see if this is the gen
 
 This solar generator is shaped like a miniature Parabolic Troughs, which have a curved reflective part that reflects a large majority of sun that hits it into the object that the curve is centered around. 
 They are a **complex parabolic** shape, which is important in order to reflect the material onto the center object on a wide range of angles
-[Watch this video for a explaination of Complex vs normal parabolas] (https://www.google.com/search?q=complex+parabolic+generator+youtube&safe=active&sca_esv=0a4d36ace9aedeff&rlz=1C1GCPZ_en&ei=5A5SaeizKai0ptQP7JC4mAQ&ved=0ahUKEwjotYPeheKRAxUomokEHWwIDkMQ4dUDCBE&uact=5&oq=complex+parabolic+generator+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiI2NvbXBsZXggcGFyYWJvbGljIGdlbmVyYXRvciB5b3V0dWJlMgoQIRigARjDBBgKSKc9UPMGWKA7cAF4AZABAJgBwgOgAb44qgELMS4zLjExLjEwLjG4AQPIAQD4AQGYAgagAr8JwgIKEAAYsAMY1gQYR8ICCBAAGIAEGKIEwgIIEAAYogQYiQXCAgUQABjvBcICBhAAGAcYHsICCxAAGIAEGJECGIoFwgIIECEYoAEYwwSYAwCIBgGQBgiSBwcxLjIuMS4yoAeAZLIHBzAuMi4xLjK4B7cJwgcFMS40LjHIBw6ACAA&sclient=gws-wiz-serp#fpstate=ive&vld=cid:8bdcefe4,vid:8zlAI32MSsQ,st:0 )
+
+<a href="https://youtu.be/8zlAI32MSsQ">Watch this video for a explaination of Complex vs normal parabolas in generators </a>
+
 
 This redirected sunlight *should* heat the TEGs a good some of degrees
 TEGs have two sides to them, the hot side  and the cold side
@@ -36,12 +38,20 @@ Coming out of the Boost Converter, I may introduce a Ammeter to measure the curr
 The wiring then is split into two different circuits, one that connects to a USB-Micro cord to charge a power bank, then the other goes to power the fans in the heatsinks.
 
 <img width="4328" height="2000" alt="unnamed" src="https://github.com/user-attachments/assets/da10b175-4023-4d16-bd95-096501e31887" />
-Here is a **rough** drawing of the layout, but I'll do a CAD for the official 3d model later.
+Here is a 
+**rough** 
+drawing of the layout, but I'll do a CAD for the official 3d model later.
 
+
+
+**BOM**
+
+<a href="https://docs.google.com/spreadsheets/d/1lNDw4ujKaPl8r2O7NqdKcBt_vVqDiURIiQRso3cgyYM/edit?usp=drivesdk">Heres the Bill of Materials for the project </a>
 
 **Timeline**
+
 If I get funding, I'll order parts within the week and then get working once they arrive.
-The build itself will likely only take one or two long work days (~12-20h)
+The build itself will likely only take one or two long work days (~12-20h). I'll be working with my friend to build the project.
 The majority of the time will have to be spent fixing it. 
 There will likely be many overlooked issues, or broken parts
 Then there will just be waiting around for new parts to arrive to keep working
@@ -49,6 +59,7 @@ Then there will just be waiting around for new parts to arrive to keep working
 After finalizing the design, I'll record data over a week or two and compile it for analysis.
 
 **Risks & Safety**
+
 There is, of course, the normal risks with tools and materials
 
 Beyond that, the risks really depend on if this project works well.
